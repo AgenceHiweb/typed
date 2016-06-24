@@ -1,0 +1,33 @@
+/* TEAM */                           
+Hiweb: Mathieu Etienne.                        
+Site: contact@hiweb.fr                       
+Twitter: @_hiweb                       
+Location: Paris, France.
+
+
+                        [...]
+							
+/* THANKS */				
+Kirby: http://getkirby.com
+FontAwesome: http://fortawesome.github.io/Font-Awesome/
+KirbytextRaw: https://github.com/jbeyerstedt/kirby-plugin-kirbytextRaw
+Selector: https://github.com/storypioneers/kirby-selector
+Visual Markdown: https://github.com/JonasDoebertin/kirby-visual-markdown
+Snippetfield: https://github.com/jenstornell/kirby-snippetfield
+Tabs: https://github.com/1n3JgKl9pQ6cUMrW/kirby-tabs
+Icon: https://github.com/1n3JgKl9pQ6cUMrW/kirby-icon
+Geolocation: https://github.com/lekkerduidelijk/kirby-geolocation-field
+Switch: https://github.com/distantnative/field-switch
+Builder: https://github.com/TimOetting/kirby-builder
+Modules: https://github.com/frekw/kirby-modules
+Analytics: https://github.com/iksi/KirbyAnalytics
+
+
+                        [...]
+                        
+                            
+/* SITE */                    
+Last update: 21/06/2016
+Standards: HTML5, CSS3
+Components: jQuery
+Software: Sublime Text, PHP, that's it :)
