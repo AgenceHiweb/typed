@@ -1,5 +1,6 @@
 # TYPED. Kirby Theme
 
+Live demo at <http://hiweb.fr/typed>
 TYPED. is a blog theme for Kirby CMS. You may want to read more about Kirby on the <http://getkirby.com> website. You'll need to buy a Kirby License if you want to use it on a live website. It's worth it :)
 
 ## Introduction

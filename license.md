@@ -6,7 +6,7 @@ Our Kirby themes themselves are licensed under the GNU General Public License.
 You may use your purchased themes on as many websites as you like.
 
 All Bundled plugins are open-source and can be used on multiple domains.
-For more details please refer to the themes readme.txt file for details about plugins packaged with each theme.
+For more details please refer to the themes humans.txt file for details about plugins packaged with each theme.
 
 ## Update and Compatibility
 All Kirby themes sold by Hiweb are always tested and updated to be compatible with the latest stable version of Kirby. However, Hiweb can give no guarantee that current versions of our themes will be compatible with previous versions of Kirby, or that previous versions of our themes will be compatible with the current version of Kirby.
