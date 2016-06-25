@@ -24,7 +24,7 @@ Well everything you see is customizable... of course.
 - The information details are also optional. Add as many contact information or social links straight from the panel.
 - The footer is obviously also customizable!
 
-Pages included:
+## Pages included:
 - Homepage
 - Blog Page
 - Article Page
